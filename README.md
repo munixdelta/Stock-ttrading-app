@@ -23,4 +23,4 @@ I chose to use the the (https://www.alphavantage.co/)[AlphaVantage API] for my s
 
 
 ## Databases
-I chose MongoDB, and by extension Mongoose.js (ORM) and MongoDB Atlas due to its quick prior experience with the technology due to its ability to access data quickly and prior experience with it in my Big Data class.
+I chose MongoDB, and by extension Mongoose.js (ORM) and MongoDB Atlas due to its quick prior experience with the technology due to its ability to access data quickly and prior experience with it in my Big Data class..
